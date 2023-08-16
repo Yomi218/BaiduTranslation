@@ -1,0 +1,22 @@
+{
+	"description" : "If you like it,\nplease rate and subscribe. thank all\n\nCharacter: Anti-Rain Squad (Girls Frontline 少女前線)\n\n\n[Other Collection Wallpapers]\n\nM1903 Springfield and M1 Garand\nhttp://steamcommunity.com/sharedfiles/filedetails/?id=855023857\n\nNegev\nhttp://steamcommunity.com/sharedfiles/filedetails/?id=855043697\n\nKar98k\nhttp://steamcommunity.com/sharedfiles/filedetails/?id=855055755",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Anime" ],
+	"title" : "Anti-Rain Squad",
+	"type" : "web",
+	"visibility" : "private"
+}

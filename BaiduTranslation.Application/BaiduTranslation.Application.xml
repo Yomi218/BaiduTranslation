@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BaiduTranslation.Application</name>
+    </assembly>
+    <members>
+        <member name="T:BaiduTranslation.Application.SystemAppService">
+            <summary>
+            系统服务接口
+            </summary>
+        </member>
+        <member name="M:BaiduTranslation.Application.SystemAppService.GetDescription(System.String)">
+            <summary>
+            获取系统描述
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
